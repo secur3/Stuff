@@ -2683,5 +2683,4 @@ $results = Main;
 $results
 }
 
-Invoke-Fun "version /full"
 Invoke-Fun -DumpyCred
